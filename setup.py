@@ -20,7 +20,7 @@ setup(
 	url='https://github.com/UmSenhorQualquer/pyforms',
 	install_requires=[
 		'anyqt',
-		'pyqt5',
+		#'pyqt5',
 		'pyopengl',
 		'QScintilla',
 		'visvis',
